@@ -1,7 +1,6 @@
 # Overview
-This repository is intended to centralize string data common to many viewer builds
-(such as required compiler switches), both internal to Linden and external, on
-TeamCity and on individual dev machines.
+This repository is intended to centralize compiler flags and macros across
+dependency and viewer builds for Alchemy Viewer.
 
 # Bash Usage
 Intended usage is to clone this repository as a sibling to the source
